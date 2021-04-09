@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/event-dispatcher": "^4.3",
+        "linq/php-linq": "^1.0"
+    }
+}

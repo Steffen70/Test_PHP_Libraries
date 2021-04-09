@@ -1,0 +1,6 @@
+{
+    "require": {
+        "philo/laravel-blade": "^3.1",
+        "athari/yalinqo": "^2.4"
+    }
+}
